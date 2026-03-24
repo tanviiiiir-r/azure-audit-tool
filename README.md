@@ -1,3 +1,5 @@
+[![CI](https://github.com/tanviiiiir-r/azure-audit-tool/actions/workflows/ci.yml/badge.svg)]
+
 # azure-audit-tool
 
 Brief overview of azure-audit-tool
