@@ -1,8 +1,8 @@
 [![CI](https://github.com/tanviiiiir-r/azure-audit-tool/actions/workflows/ci.yml/badge.svg)]
-
+[![CI](https://github.com/tanviiiiir-r/azure-audit-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/tanviiiiir-r/azure-audit-tool/actions) [![License](https://img.shields.io/github/license/tanviiiiir-r/azure-audit-tool?style=flat)](https://github.com/tanviiiiir-r/azure-audit-tool/blob/main/LICENSE)
 # azure-audit-tool
 
-Brief overview of azure-audit-tool
+Automated Azure misconfiguration auditor (policy checks, report generation)
 
 ## ✨ Features
 - Bullet point 1
@@ -37,3 +37,6 @@ MIT © 2026 Tanvir Rana
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests – see `CONTRIBUTING.md` for guidelines.
+
+## 📦 License
+MIT © 2026 Tanvir Rana
